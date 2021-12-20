@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hasło: 12345
+=======
+hasło : 54321
+>>>>>>> b8a5273 (Ustawienie hasla User_1)
+hasło:55555
